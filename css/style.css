@@ -8,4 +8,8 @@
     color: white;
     background-size: cover;
     border-radius: 0px;
+    background-color: #707070
+}
+.card-link {
+    color: #6c757d;
 }
