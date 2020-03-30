@@ -25,5 +25,8 @@ body {
 	font-family: 'Roboto', sans-serif;
 }
 .card-footer {
-	background-color: royalblue;
+	background-color: #00308f;
+}
+div.colorbar {
+	background-color: #00308f;
 }
