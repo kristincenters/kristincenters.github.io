@@ -3,6 +3,10 @@
 	padding: 0;
 	font-family: 'Roboto', sans-serif;
 }
+body {
+	background-color: darkgrey;
+}
+
 .jumbotron {
 	background-image: url('../assets/images/jumbotron_background_abstract.jpg');
 	color: white;
@@ -11,7 +15,7 @@
 	background-color: #707070;
 }
 .card-link {
-	color: #6c757d;
+	color: gray;
 }
 .card-title {
 	margin: 10px;
@@ -19,4 +23,7 @@
 	text-align: center;
 	vertical-align: middle;
 	font-family: 'Roboto', sans-serif;
+}
+.card-footer {
+	background-color: royalblue;
 }
