@@ -30,3 +30,9 @@ body {
 div.colorbar {
 	background-color: #00308f;
 }
+.navText {
+	font-family: 'Euphoria Script', cursive;
+	font-family: 'Gruppo', cursive;
+	color: white;
+	font-size: 38px;
+}
