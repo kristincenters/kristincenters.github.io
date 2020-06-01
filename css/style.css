@@ -4,15 +4,16 @@
 	font-family: 'Roboto', sans-serif;
 }
 body {
-	background-color: darkgrey;
+	background-color: #f4f5e6;
+	color: #585858;
 }
 
 .jumbotron {
-	background-image: url('../assets/images/jumbotron_background_abstract.jpg');
-	color: white;
-	background-size: cover;
+	background-image: url('../assets/images/portfolio_background-01.svg');
+	background-repeat: no-repeat;
+	color: #202020;
 	border-radius: 0px;
-	background-color: #707070;
+	background-size: cover;
 }
 .card-link {
 	color: gray;
@@ -25,14 +26,19 @@ body {
 	font-family: 'Roboto', sans-serif;
 }
 .card-footer {
-	background-color: #00308f;
+	background-color: #6aa5a5;
+	color: #686868;
 }
 div.colorbar {
-	background-color: #00308f;
+	background-color: #6aa5a5;
+	color: #686868;
 }
 .navText {
 	font-family: 'Euphoria Script', cursive;
 	font-family: 'Gruppo', cursive;
-	color: white;
+	color: #484848;
 	font-size: 38px;
 }
+/* .navbar {
+	background-color: #6aa5a5;
+} */
