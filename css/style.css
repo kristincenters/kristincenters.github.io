@@ -17,6 +17,7 @@ body {
 }
 .card-link {
 	color: gray;
+	text-align: center;
 }
 .card-title {
 	margin: 10px;
