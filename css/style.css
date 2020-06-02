@@ -43,3 +43,22 @@ div.colorbar {
 /* .navbar {
 	background-color: #6aa5a5;
 } */
+/* unvisited link */
+a:link {
+	color: #808080;
+}
+
+/* visited link */
+a:visited {
+	color: #808080;
+}
+
+/* mouse over link */
+a:hover {
+	color: #808080;
+}
+
+/* selected link */
+a:active {
+	color: #101010;
+}
